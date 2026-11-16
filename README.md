@@ -1,6 +1,6 @@
 # PowerSlug
 
-Welcome test, fellow slug hunters!!! 
+Welcome, fellow slug hunters!!! 
 
 Congratulations on finding this place! You're now pretty close to the slug you've been looking for. However, I wouldn't recommend going through every single folder one by one...
 
